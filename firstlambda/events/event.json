@@ -1,0 +1,5 @@
+["Kiran","John"] # List
+{"John":1234,"Kiran":100000} # map
+{"name":"John","ssn":"122345"} # Object
+		
+  
